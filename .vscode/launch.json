@@ -1,0 +1,17 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "name": "Launch Package",
+        //     "type": "go",
+        //     "request": "launch",
+        //     "mode": "auto",
+        //     "program": "main.go",//main函数入口,相对于项目的路径
+        //     "env": {"APP_CONF_PATH":"../config/app_config.json"} // APP_CONF_PATH为环境变量名字，配置文件路径，相对于项目的路径
+        //     }
+            
+    ]
+}
